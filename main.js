@@ -1,6 +1,7 @@
 img = "";
 status = "" ;
 objects=[];
+objectDetector="";
 //dumy commit to change SHA256 file hash
 function preload(){
     img = loadImage('dog-cat.jpg');
