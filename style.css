@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.heading
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+color:white;
+background-color:#00B2CA;
+text-align:center;
+padding-top:8px;
+height:50px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: 110px 110px;
+    background-position: 0px 0px,55px 55px;
+    font-family: 'Poppins', sans-serif;
+    background-image: radial-gradient(50% 50% at 50% 50%, transparent 0%, transparent 75%, #B6CC66 76%, #B6CC66 85%, #EDFFDB 86%, #EDFFDB 94%, #FFFFFF 95%, #FFFFFF 103%, #D9E6A7 104%, #D9E6A7 112%, #798B3C 113%, #798B3C 121%, #FFFFFF 122%, #FFFFFF 130%, #E0EAD7 131%, #E0EAD7 140%),radial-gradient(50% 50% at 50% 50%, #CF0E0EFF 0%, #FFFFFFFF 75%, #AEDA1DFF 76%, #698010FF 79%, #B6CC66 85%, #EDFFDB 86%, #FF0000FF 91%, #EDFFDB 94%, #554343FF 96%, #884646FF 103%, #25291AFF 104%, #D9E6A7 112%, #798B3C 113%, #798B3C 121%, #FFFFFF 122%, #FFFFFF 130%, #E0EAD7 131%, #E0EAD7 140%);
+}
+canvas{
+    box-shadow:10px 10px 10px grey;
+    border-radius:10px;
+}
+footer{
+  margin-top:500px;
+  color:#F79256;
+  text-align:center;
+  background-color:grey;
+}
