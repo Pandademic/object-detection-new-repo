@@ -25,10 +25,16 @@ body{
 canvas{
     box-shadow:10px 10px 10px grey;
     border-radius:10px;
+    margin-top:30px;
+
 }
 footer{
   margin-top:500px;
   color:#F79256;
   text-align:center;
   background-color:grey;
+}
+#number_of_objects{
+  font-size:18px;
+
 }
